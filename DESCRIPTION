@@ -1,1 +1,13 @@
+Package: KMEANS599
+Type: Package
+Title: KMEANS 599
+Author: Jared Benajmin Silverstein
+Maintainer: Jared Benjamin Silverstein <jbs438@nau.edu>
+Description: Standard template library containers are used to implement a Kmeans algorithm that returns a result similar to stats::kmeans().
+URL: https://github.com/trevb11/KMEANS599
+Imports: data.table, stats
+Suggests: 
+    ggplot2,
+    testthat
+RoxygenNote
 
