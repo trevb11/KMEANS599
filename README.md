@@ -1,6 +1,6 @@
 # KMEANS599
 
-INSTILLATION
+# INSTILLATION
 
 ```{r}
 install.packages("KMEANS599")
@@ -9,7 +9,7 @@ if(require("remotes"))install.packages("remotes")
 remotes::install_github("trevb11/KMEANS599")
 ```
 
-USAGE
+# USAGE
 
 The main function is KMEANS599 for which you must specify 3 arguments:
 
